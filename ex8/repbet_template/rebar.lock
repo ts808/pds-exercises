@@ -1,0 +1,8 @@
+[{<<"aten">>,
+  {git,"https://github.com/rabbitmq/aten.git",
+       {ref,"716273301f6aa9eae3d429a7260e163dc43c797b"}},
+  1},
+ {<<"ra">>,
+  {git,"https://github.com/rabbitmq/ra",
+       {ref,"a75fdec7c6ecfc8e1dcc92251f421b34f6a14069"}},
+  0}].

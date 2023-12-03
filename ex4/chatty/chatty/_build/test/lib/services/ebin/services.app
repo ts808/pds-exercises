@@ -1,0 +1,10 @@
+{application,services,
+             [{description,"An OTP application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{services_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[services_app,services_chatty,services_sup]},
+              {licenses,["Apache 2.0"]},
+              {links,[]}]}.
